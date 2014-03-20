@@ -9,6 +9,8 @@ Books people recommend to someone who is a self-tought software developer intere
 - K&R C
 - C Interfaces and Implementations
 - The Haskell Road to Logic, Math and Programming
+- The Little Schemer
+- Structure and Interpretation of Computer Programs
 
 
 # Algorithms & Data Structures
