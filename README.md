@@ -1,7 +1,7 @@
 self-taught-cs
 ==============
 
-Books people recommend to someone who is a self-tought software developer interested in CS 
+Books people recommend to someone who is a self-taught software developer interested in CS 
 
 
 # General
