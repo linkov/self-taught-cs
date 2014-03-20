@@ -1,4 +1,4 @@
-self-tought-cs
+self-taught-cs
 ==============
 
 Books people recommend to someone who is a self-tought software developer interested in CS 
