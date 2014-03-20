@@ -16,3 +16,7 @@ Books people recommend to someone who is a self-tought software developer intere
 - Mastering Algorithms with C
 - Datastructures Demystifyed / Data Structures and Algorithms in 24 Hours
 - The Algorithm Design Manual Second Edition
+
+# Math
+
+- No bullshit guide to linear algebra
