@@ -11,7 +11,7 @@ Books people recommend to someone who is a self-taught software developer intere
 - The Haskell Road to Logic, Math and Programming
 - The Little Schemer
 - Structure and Interpretation of Computer Programs
-
+- http://www.youtube.com/channel/UCwbsWIWfcOL2FiUZ2hKNJHQ
 
 # Algorithms & Data Structures
 
