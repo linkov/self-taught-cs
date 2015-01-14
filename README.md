@@ -1,9 +1,6 @@
 self-taught-cs
 ==============
 
-Books people recommend to someone who is a self-taught software developer interested in CS 
-
-
 # General
 
 - K&R C
