@@ -9,6 +9,7 @@ self-taught-cs
 - The Little Schemer
 - Structure and Interpretation of Computer Programs
 - http://www.youtube.com/channel/UCwbsWIWfcOL2FiUZ2hKNJHQ
+- http://codingforinterviews.com
 
 # Algorithms & Data Structures
 
